@@ -1,4 +1,6 @@
 # Parallel Computation Analysis
+```bash
+git clone https://github.com/your-username/your-repo-name.git
 
 ## Overview
 This project explores the efficiency of parallel computation in C using different methods. It focuses on counting occurrences of a specific number in an array using various thread counts and array sizes. The key objective is to analyze the performance implications of different parallelization strategies, including the impact of cache optimization.
